@@ -1,4 +1,4 @@
 craps-lisp
 ==========
 
-Craps-LISP
+Craps-LISP is the game craps (dice) implemented in LISP.
