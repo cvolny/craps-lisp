@@ -18,6 +18,7 @@
 ;;; > (play-game)
 ;;;
 
+(setf *random-state* (make-random-state t))
 
 (defun throw-die ()
 "random die throw [1,6]"
